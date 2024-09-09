@@ -1,5 +1,5 @@
 # archermc-opensource
-Open Source do server ArcherMC.
+Open Source do server ArcherMC - 1.8x.
 
 # O projeto contém o seguinte:
 - Commons
