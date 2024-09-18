@@ -12,4 +12,6 @@ Open Source do server ArcherMC - 1.8x.
 - Lava Challenge
   
 # Como usar
-- Se você sabe importar projetos no IntelliJ, você vai saber como usar rs
+- Se você sabe importar projetos no IntelliJ, você vai saber como usar 
+
+dps eu upo pdp
